@@ -412,7 +412,7 @@ export default function App() {
         <section className="max-w-4xl mx-auto py-16 border-t border-slate-100">
           <div className="flex flex-col items-center text-center mb-12">
             <div className="w-16 h-1 bg-blue-600 mb-8"></div>
-            <h3 className="text-3xl font-display font-bold text-slate-900 mb-6">Conclusão e Análise Profunda</h3>
+            <h3 className="text-3xl font-display font-bold text-slate-900 mb-6">Conclusão e Análise</h3>
           </div>
           
           <div className="grid md:grid-cols-2 gap-12 text-left">
